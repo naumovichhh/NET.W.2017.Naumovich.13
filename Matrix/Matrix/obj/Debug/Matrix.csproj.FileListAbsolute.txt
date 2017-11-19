@@ -1,0 +1,5 @@
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Matrix\Matrix\bin\Debug\Matrix.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Matrix\Matrix\bin\Debug\Matrix.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Matrix\Matrix\obj\Debug\Matrix.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Matrix\Matrix\obj\Debug\Matrix.pdb

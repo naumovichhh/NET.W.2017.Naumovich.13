@@ -1,0 +1,9 @@
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\MatrixTests.dll
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\MatrixTests.pdb
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\Matrix.dll
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\nunit.framework.dll
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\Matrix.pdb
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\bin\Debug\nunit.framework.xml
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\obj\Debug\MatrixTests.csprojResolveAssemblyReference.cache
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\obj\Debug\MatrixTests.dll
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Matrix\MatrixTests\obj\Debug\MatrixTests.pdb
