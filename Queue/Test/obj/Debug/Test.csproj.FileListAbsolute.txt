@@ -1,0 +1,8 @@
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\bin\Debug\Test.exe.config
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\bin\Debug\Test.exe
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\bin\Debug\Test.pdb
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\obj\Debug\Test.exe
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\obj\Debug\Test.pdb
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\bin\Debug\Queue.dll
+c:\Users\Роман\documents\visual studio 2017\Projects\epam\Queue\Test\bin\Debug\Queue.pdb

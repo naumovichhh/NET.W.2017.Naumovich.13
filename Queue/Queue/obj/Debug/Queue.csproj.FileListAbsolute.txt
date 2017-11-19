@@ -1,0 +1,5 @@
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Queue\Queue\bin\Debug\Queue.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Queue\Queue\bin\Debug\Queue.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Queue\Queue\obj\Debug\Queue.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\Queue\Queue\obj\Debug\Queue.pdb
