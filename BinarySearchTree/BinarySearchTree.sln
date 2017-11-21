@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{06487BC7-3925-490B-8793-266EBF88078A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{36141825-2718-406F-BCD5-9A233C3C4F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06487BC7-3925-490B-8793-266EBF88078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06487BC7-3925-490B-8793-266EBF88078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06487BC7-3925-490B-8793-266EBF88078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06487BC7-3925-490B-8793-266EBF88078A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36141825-2718-406F-BCD5-9A233C3C4F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36141825-2718-406F-BCD5-9A233C3C4F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36141825-2718-406F-BCD5-9A233C3C4F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36141825-2718-406F-BCD5-9A233C3C4F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
